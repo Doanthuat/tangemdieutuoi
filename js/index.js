@@ -6,7 +6,7 @@ $('#login-button').click(function (event) {
 			event.preventDefault();
 			$('form').fadeOut(500);
 			$('.wrapper').addClass('form-success');
-			setTimeout(function(){location.href="indextim.html";},2000);
+			setTimeout(function(){location.href="daulau.html";},2000);
 		}
 	else{
 		alert("Nhập sai thông tin rồi kìa,Đồ ngốc!");
